@@ -13,7 +13,6 @@ Web & Android freelance developer, passioned about Frontend, and backend alike.
 
 ### Techologies - libraries
 ![React](https://img.shields.io/badge/React-blue)
-![Bash](https://img.shields.io/badge/Bash-black)
 ![Node](https://img.shields.io/badge/Node-green)
 ![Nest](https://img.shields.io/badge/Nest-red)
 ![GraphQL](https://img.shields.io/badge/GraphQL-hotpink)
