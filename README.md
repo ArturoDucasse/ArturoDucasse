@@ -9,7 +9,7 @@
   <a href="https://ducassedev.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-F7347A.svg?style=for-the-badge&logo=book&logoColor=white"/></a>
  </p>
 
-<p align='center'> Passionate Software Engineer, primary working in Web & Android developing (Frontend - backend alike). I'm currently stepping into blockchain, primaly Smart Contracts and NFTs. Love Open Source projects, and I'm mostly active within the Blockchain, Web Development community.</p>
+<p align='center'> Passionate Software Engineer, primary working in Web & Android developing (Frontend - backend alike). I'm currently stepping into blockchain, primary Smart Contracts, and NFTs. Love Open Source projects, and I'm mostly active within the Blockchain, Web Development community.</p>
 
 
 <h3 align="center"> Technologies and Tools</h3>
