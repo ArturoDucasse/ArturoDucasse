@@ -12,7 +12,7 @@
 <p align='center'> Passionate Software Engineer, primary working in Web & Android developing (Frontend - backend alike). I'm currently stepping into blockchain, primary Smart Contracts, and NFTs. Love Open Source projects, and I'm mostly active within the Blockchain, Web Development community.</p>
 
 
-<h3 align="center"> Technologies and Tools</h3>
+<h3 align="center"> Most used technologies and tools</h3>
 </p>
 <br />
 <p align="center">
