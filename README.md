@@ -32,7 +32,6 @@
 
 <p align='center'>
 <img src="https://github-readme-stats.vercel.app/api?username=ArturoDucasse&theme=radical&show_icons=true" width="450"/> </br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ArturoDucasse&layout=compact&theme=radical" width="400" />
 </p>
 
 
