@@ -1,5 +1,5 @@
 <p>
-  <h1 align="center"><b>Hi, I'm Arturo 🚀</h1>
+  <h1 align="center"><b>Hello there</h1>
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
   <a href="https://arturoducasse.dev/"><img src="https://img.shields.io/badge/Portfolio-F7347A.svg?style=for-the-badge&logo=book&logoColor=white"/></a>
  </p>
 
-<p align='center'> Passionate Web Developer, plus mobile. Love Open Source projects, and anything related with Blockchain, and Three.js.</p>
+<p align='center'> Passionate Web Developer, plus mobile 🚀. Love Open Source projects, and anything related with Blockchain, and Three.js.</p>
 
 
 <h3 align="center"> Most used technologies and tools</h3>
