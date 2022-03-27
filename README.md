@@ -35,4 +35,3 @@
 </p>
 
 
-### Looking for my Resume? it's on my portfolio!📚
