@@ -5,8 +5,8 @@
 <p align="center">
   <a href="https://mail.google.com/mail/u/0/?fs=1&to=ArturoM.Ducasse@gmail.com&su=Job-related&tf=cm"><img src="https://img.shields.io/badge/Gmail-D14836.svg?style=for-the-badge&logo=GMail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/arturoducasse/"><img src="https://img.shields.io/badge/linkedin-0077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://twitter.com/ArturoDucasse"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a> 
-  <a href="https://arturoducasse.dev/"><img src="https://img.shields.io/badge/Portfolio-F7347A.svg?style=for-the-badge&logo=book&logoColor=white"/></a>
+<!--   <a href="https://twitter.com/ArturoDucasse"><img src="https://img.shields.io/badge/Twitter-1DA1F2.svg?style=for-the-badge&logo=twitter&logoColor=white"/></a>  -->
+<!--   <a href="https://arturoducasse.dev/"><img src="https://img.shields.io/badge/Portfolio-F7347A.svg?style=for-the-badge&logo=book&logoColor=white"/></a> -->
  </p>
 
 <p align='center'> Passionate Web Developer, plus mobile 🚀. Love Open Source projects, and anything related with Blockchain, and Three.js.</p>
