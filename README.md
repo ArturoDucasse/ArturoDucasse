@@ -21,7 +21,6 @@
 <a href="https://www.mongodb.com/" target="_blank"> <img src="https://lineadecodigo.com/wp-content/uploads/2014/04/mongodb.png" alt="mongodb" width="40" height="40"/> </a>
 <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" alt="react" width="40" height="40"/> </a>
 <!--<a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/YuriDevAT/YuriDevAT/blob/main/nextjs.png" alt="nextjs" width="40" height="40"/> </a>-->
-<a href='https://nodejs.org/en/' ><img alt="Node" width="40px" src="https://bachasoftware.com/wp-content/uploads/elementor/thumbs/nodejslogo-p3zvdhaajh0bxurlgqp1gszveuzuf58gd4auf7uve8.png" /></a>
  <a href='https://www.postgresql.org/'><img alt="postgresql" width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" /></a>
 <a href="https://www.docker.com/" target="_blank"> <img src="https://seeklogo.com/images/D/docker-logo-CF97D0124B-seeklogo.com.png" alt="tailwind" width="40" height="40"/> </a>  
 <a href="https://docs.soliditylang.org/en/v0.8.9/" target="_blank"> <img src="https://pbs.twimg.com/profile_images/1240311693177167892/-5a2yoQp.jpg" alt="figma" width="40" height="40"/> </a>
